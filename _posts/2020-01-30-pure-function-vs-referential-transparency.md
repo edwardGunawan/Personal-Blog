@@ -2,6 +2,7 @@
 layout: post
 title: Pure Function vs Referential Transparency
 date: 2020-01-30 12:16
+update_date: 2020-05-30 11:43
 summary: Referential Transparency might not equal to Pure Function
 categories: functional-programming tech programming scala
 tags: functional-programming tech programming scala
@@ -111,6 +112,9 @@ def method(x:Int) : Int = {
 <img src="{{site.baseurl}}/images/pure-function-vs-referential-transparency/Referential Transparency.png" alt="Referential Transparency.png">
 
 This function is referentially transparent because you can change the underlying method with a print statement and x; and it yields the same result. `method(1)` will always equal to `method(1)`, and `method(42)` can be replaced as `print(42); 42`. However, this function is not pure because it has an IO, print statement.
+
+## Updated 05/30/2020
+After learning functional programming for a while now, I would like to change this statement that I wrote. If a function is referentially transparent, it is also pure. As mentioned in [Functional with Scala](https://www.manning.com/books/functional-programming-in-scala), an expression to be referential transparent - in any program, the expression can be replaced by its result without changing the meaning of the program. And we can say that a function is _pure_ if calling it with Referential Transparent arguments is also Referential Transparency.
 
 ## Main Takeaway
 - If a function is not referential transparency, be aware of some unexpected output from a function with the same input is being called multiple times. 

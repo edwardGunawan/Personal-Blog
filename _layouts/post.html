@@ -16,8 +16,15 @@ layout: default
     {{ page.minutes }} {{ site.text.post.minute_read | default: "minute read" }}
     {% else %}
     {{ minutes }} {{ site.text.post.minute_read | default: "minute read" }}
+    {% endif %} 
+    {% if page.update_date %}
+    |
+    <span class="post-meta">{{ site.text.post.updated | default: "Updated" }}:
+      {{ page.update_date | date: site.date_format }}</span><br>
     {% endif %}
   </span>
+  
+
 </div>
 
 <article class="post-content">
@@ -26,7 +33,7 @@ layout: default
 
 <article class ="post-content">
   <h3>Like this Article?</h3>
-  <p>Sign up for my newsletter to get this content weekly!</p>
+  <p>Sign up for my newsletter to get notified for new articles!</p>
   {% include subscribe.html %}
   <br>
 </article>
