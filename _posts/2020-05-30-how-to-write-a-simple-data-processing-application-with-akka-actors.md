@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Write a Simple Data Processing Application With Akka Actors
-date: 2020-05-30 10:08
+date: 2020-05-30 12:03
 summary: Processing data concurrently with Actor System
 categories: akka scala programming functional-programming reactive
 tags: akka scala programming functional-programming reactive ETL

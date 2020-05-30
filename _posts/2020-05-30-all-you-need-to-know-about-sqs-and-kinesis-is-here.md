@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All you need to know about SQS and Kinesis is Here
-date: 2020-05-30 10:25
+date: 2020-05-30 12:02
 summary: Identify each resources can help you design a reliable system, and save your resources time and money
 categories: cloud AWS devops
 tags: cloud AWS devops
