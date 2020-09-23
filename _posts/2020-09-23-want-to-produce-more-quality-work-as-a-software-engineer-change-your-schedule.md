@@ -96,6 +96,5 @@ If you incorporate these techniques and change your schedule, you realized that 
 ### Source
 - [Maker vs. Manager: How Your Schedule Can Make or Break You](https://fs.blog/2017/12/maker-vs-manager/)
 - [Makers, Don't Let Yourself Be Forced Into the 'Manager Schedule' \| Inside Nuclino](https://blog.nuclino.com/makers-don-t-let-yourself-be-forced-into-the-manager-schedule)
-
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 
