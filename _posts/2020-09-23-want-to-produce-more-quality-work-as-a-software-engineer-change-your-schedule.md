@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Want to Produce more quality Work as a Software Engineer? Change your Schedule
+title: Want to Produce More Quality Work as a Software Engineer? 
 date: 2020-09-23 13:07
-summary: How you can leverage your Makers Schedule in a Managers World
+summary: Change your Schedule
 categories: relationship tech productivity life-lesson
 tags: relationship tech productivity life-lesson
 ---
