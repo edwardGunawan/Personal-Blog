@@ -3,8 +3,8 @@ layout: post
 title: How to Write Data Processing Application in FS2
 date: 2020-06-02 00:06
 summary: Processing Application with Stream
-categories: functional-programming ETL scala 
-tags: functional-programming ETL scala
+categories: functional-programming ETL scala stream-processing fs2
+tags: functional-programming ETL scala stream-processing fs2
 ---
 _![Photo by Cam Adams](https://images.unsplash.com/photo-1453503795393-c496eee08c98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80)_
 
