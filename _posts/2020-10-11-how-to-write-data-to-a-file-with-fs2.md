@@ -101,7 +101,7 @@ Therefore, our `WriteToFile` function looks like this:
 
 <script src="https://gist.github.com/edwardGunawan/0f42265170ff0751dac959051999631c.js"> </script>
 
-Then, we can write a simple program to leverange our implementation like this:
+Then, we can write a simple program to leverage our implementation like this:
 
 <script src="https://gist.github.com/edwardGunawan/756a3594fb37946672b4b5414d860c43.js"> </script>
 
