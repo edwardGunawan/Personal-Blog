@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a Throttling System for Any Application with no more than 100 lines of Code
+title: Create a Throttling System for Any Application with no more than 100 lines of Code
 date: 2020-10-11 12:41
 summary: With the help of functional programming and FS2
 categories: fs2 functional-programming stream-processing scala programming
