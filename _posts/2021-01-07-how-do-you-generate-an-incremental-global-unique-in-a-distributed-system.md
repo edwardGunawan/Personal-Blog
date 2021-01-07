@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do you Generate an Incremental Global Unique in a Distributed System
-date: 2021-01-07 09:02
+date: 2021-01-07 09:26
 summary: Create a monotonically increasing unique function in a distributed system
 categories: distributed-system programming architecture system-thinking
 tags: distributed-system programming architecture system-thinking
