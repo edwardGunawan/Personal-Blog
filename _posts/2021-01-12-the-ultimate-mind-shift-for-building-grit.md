@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ultimate Mind Shift for Building Grid
+title: The Ultimate Mind Shift for Building Grit
 date: 2021-01-12 20:53
 summary: Adopt your mindset to build grid
 categories: life-lesson self-improvement
