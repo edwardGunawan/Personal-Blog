@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things I learn from Watching Nardwuar TV show
-date: 2021-01-30 16:34
+date: 2021-01-30 17:04
 summary: How his show is funny, but also inspirational
 categories: self-improvement life-lesson
 tags: self-improvement life-lesson
