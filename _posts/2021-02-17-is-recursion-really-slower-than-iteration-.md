@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Recursion Really Slower than iteration?
+title: Is Recursion Really Slower than Iteration?
 date: 2021-02-17 09:52
 summary: You can use both ways of writing code, but is one faster than the other?
 categories:
@@ -14,7 +14,7 @@ We deal with these two ways of writing complex programs all the time. If you wan
 
 However, iterative solutions are usually faster than recursive solutions when it comes to speed.
 
-That's it, you can stop reading from here if you want - or you can read the longer answer.
+That's it, you can stop reading from here if you want - or you can read the long answer and see why it depends.
 
 In a standard programming language, where the compiler doesn't have tail-recursive optimization, Recursive calls are usually slower than iteration. For instance, in Java, recursive calls are expensive because they can't do a tail-removal optimization. 
 
@@ -63,5 +63,5 @@ I hope you learn a little about the relationship between recursive and iterative
 
 
 Some reference about recursion that I thought it will be helpful if you want to deep dive into this topic:
-- [What is tail recursion? - LispCast](https://lispcast.com/what-is-tail-recursion/) (How tail recurisve works)
-- [Tail call optimization in ECMAScript 6](https://2ality.com/2015/06/tail-call-optimization.html) (tail call optimization function in JS)
+- [What is tail recursion? - LispCast](https://lispcast.com/what-is-tail-recursion/)
+- [Tail call optimization in ECMAScript 6](https://2ality.com/2015/06/tail-call-optimization.html)
