@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-<img src="{{site.baseurl}}/images/is-recursion-really-slower-than-iteration-/Recursion vs Iteration.png" alt="Prifle Pic"/>
+<img src="{{site.baseurl}}/images/is-recursion-really-slower-than-iteration-/Recursion vs Iteration.png" alt="Profle Pic"/>
 
 
 We deal with these two ways of writing complex programs all the time. If you want to reverse a linked-list, for instance, there are two ways of doing it. If you're going to compute the number of likes in your blog post, there are iterative way and recursive ways of doing the algorithm. 
