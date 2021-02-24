@@ -2,7 +2,7 @@
 layout: post
 title: This is the Main Difference of Writing Applications in Functional Programming vs. Object-Oriented Programming
 date: 2021-02-22 22:48
-summary: It is not immutability or inheritance, but more on how you structure your application
+summary: It is not immutability or inheritance, but more on the structure the application if you use functional programming vs object-oriented
 categories: functional-programming programming 
 tags: functional-programming programming 
 ---
