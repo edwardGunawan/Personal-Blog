@@ -69,7 +69,7 @@ We know that CSS is much more flexible easily backward-compatible than JavaScrip
 ## In Practice
 Ultimately, the higher the abstraction you reach for your API, the more declarative your API will be. All low-level API exposes the verb you want to call, and we cannot encapsulate a higher-level abstraction API without having the imperative API. In other words, an imperative API needs to exist to encapsulate the API into a declarative one. 
 
-If you want to make your API more declarative, put config on your API to abstract your further.
+If you want to make your API more declarative, put config on your API for further abstraction.
 
 Usually, declarative API will abstract certain aspects by giving you some fault-tolerant functionality underneath, so you don't have to account for that.
 
