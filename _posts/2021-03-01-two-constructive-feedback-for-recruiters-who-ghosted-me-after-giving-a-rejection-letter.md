@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two Constructive Feedback for Recruiters who Ghosted Me After Giving A Rejection Letter
-date: 2021-02-28 21:46
+date: 2021-03-01 22:04
 summary: Be transparent and maintain long-term telationship with the candidates
 categories: jobs
 tags: jobs
