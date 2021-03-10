@@ -37,6 +37,8 @@ JSON allows continuous whitespace. Therefore, we can add 1GB worth of whitespace
 
 The communication channel is compressed between the server and the client - someone who sends this payload doesn't need to pay for a 1GB usage. However, the server will get that huge payload and try to parse it. The 1GB worth of whitespace is now loaded in the memory somewhere in the server.
 
+<script src="https://gist.github.com/edwardGunawan/9bedf625e79b6a8d782cd518ab5d115b.js"></script>
+
 Essentially, we are attacking the server heap consumption. 
 
 ### How to mitigate this
@@ -131,6 +133,6 @@ Although we cannot prevent 100% of attacks, I hope these four ways of denial of 
 
 ## Resources
 - [The Dark Side of APIs: Denial of Service Attacks - Akamai Security Intelligence and Threat Research Blog](https://blogs.akamai.com/sitr/2018/08/the-dark-side-of-apis-denial-of-service-attacks.html)
-- [The curious case of Java String HashCode \| by Animesh Gaitonde | Medium](https://animeshgaitonde.medium.com/the-curious-case-of-java-string-hashcode-6d98c734a313)
-- [Google says it mitigated a 2.54 Tbps DDoS attack in 2017, largest known to date \| ZDNet](https://www.zdnet.com/article/google-says-it-mitigated-a-2-54-tbps-ddos-attack-in-2017-largest-known-to-date/)
+- [The curious case of Java String HashCode](https://animeshgaitonde.medium.com/the-curious-case-of-java-string-hashcode-6d98c734a313)
+- [Google says it mitigated a 2.54 Tbps DDoS attack in 2017, largest known to date](https://www.zdnet.com/article/google-says-it-mitigated-a-2-54-tbps-ddos-attack-in-2017-largest-known-to-date/)
 - [Denial Of JSON in Scala](https://www.youtube.com/watch?v=3Cz6D8JLSSA&t=340s)
