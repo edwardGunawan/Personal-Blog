@@ -7,6 +7,8 @@ categories: best-practice database
 tags: best-practice database
 ---
 
+<img src="{{site.baseurl}}/images/how-to-model-any-relational-data-in-dynamodb-to-maximize-performance/Profile Pic DDB.png" alt="Profile Pic DDB"/>
+
 Designing a Database application is the first thing we usually do when we want to start working on an application. Data is at the core of these applications, whether a simple Todo app with React and NodeJs or a complex monitoring application for microservices.
 
 Designing a good data model can help you write more performant software, and there are also fewer hacky steps that you need to do when extending a new feature. 
