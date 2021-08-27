@@ -88,7 +88,7 @@ The big companies are not invincible. As the company gets larger, innovation may
 
 Sure, the stock prices of these big tech companies are soaring because they focus on their earnings. However, in terms of creating value for its customer, I believe startups can exceed the big companies in innovation. 
 
-Annalee Saxenian, a professor in UC Berkeley School of Information, wrote a book called [Regional Advantage](Harvard University Press](https://www.hup.harvard.edu/catalog.php?isbn=9780674753402&content=toc), and discussed what differentiated the Valley from other centers of technology. The keywords here were decentralized and fluid. You worked for Silicon Valley, and working for Silicon Valley often meant striking out on your own, not only to make your name but because innovation itself required small firms with new visions. That's how disruption happened, right?
+Annalee Saxenian, a professor in UC Berkeley School of Information, wrote a book called [Regional Advantage](https://www.hup.harvard.edu/catalog.php?isbn=9780674753402&content=toc), and discussed what differentiated the Valley from other centers of technology. The keywords here were decentralized and fluid. You worked for Silicon Valley, and working for Silicon Valley often meant striking out on your own, not only to make your name but because innovation itself required small firms with new visions. That's how disruption happened, right?
 
 Disclaimer: I never worked at Google. However, from a product point of view, Google didn't think on a deeper scale of innovation like how Amazon did to their customer. These blogs are my thoughts and my opinions. As always, if you have any questions or comments, please leave them below!
 
