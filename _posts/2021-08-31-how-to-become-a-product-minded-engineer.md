@@ -95,8 +95,8 @@ As an engineer, building your product muscle requires deliberately mapping the s
 Just like new technology comes and goes, we need to keep up with the newest technology currently in the industry. There will always be a new trend in the product space. If you want to be more product-minded, seek new product knowledge, and understand the current trend. It can help you build domain expertise on your product, and you can bring a lot of insights into the product to the table. Last but not least, constantly ask for feedback from the product manager and any suggestions for areas to improve.
 
 ## Source
-[Who is Product Engineer \| Hacker Noon](https://hackernoon.com/who-is-product-engineer-cl4l3yiu)
-[Product engineers. We had just finished a customer… \| by Sherif Mansour | Medium](https://sherifmansour.medium.com/product-engineers-f424da766871)
-[The Product-Minded Software Engineer - The Pragmatic Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
-[How Is A Product Engineer Different From A Full-Stack Engineer?](https://www.forbes.com/sites/quora/2017/09/06/how-is-a-product-engineer-different-from-a-full-stack-engineer/?sh=1436bd2426e7)
+- [Who is Product Engineer \| Hacker Noon](https://hackernoon.com/who-is-product-engineer-cl4l3yiu)
+- [Product engineers. We had just finished a customer… \| by Sherif Mansour | Medium](https://sherifmansour.medium.com/product-engineers-f424da766871)
+- [The Product-Minded Software Engineer - The Pragmatic Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+- [How Is A Product Engineer Different From A Full-Stack Engineer?](https://www.forbes.com/sites/quora/2017/09/06/how-is-a-product-engineer-different-from-a-full-stack-engineer/?sh=1436bd2426e7)
 
