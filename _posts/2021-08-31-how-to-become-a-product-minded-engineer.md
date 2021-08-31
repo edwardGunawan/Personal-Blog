@@ -2,12 +2,10 @@
 layout: post
 title: How to become a Product-Minded Engineer
 date: 2021-08-31 14:56
-summary: Give Engineer tips on how to become more product minded
+summary: Engineers who love to ask the 'why.'
 categories: best-practice jobs management life-lesson
 tags: best-practice jobs management life-lesson
 ---
-
-Engineers who love to ask the 'why.'
 
 Most engineers are taught how to build things. We learn all the engineer skillsets, understand various tradeoffs in system design, and implement the most efficient algorithm. At a lot of the companies, engineers come during product implementation. Engineers will discuss how to minimize these engineers' efforts in building this product. Engineers think deeply about scaling, performance, and how to build such a product. Software Engineer interview often asks about algorithm efficiency, system design, and scalability problems, but less often talks about the product; because those seem like the job of a product manager. We never ask about _why_ to build such a product. 
 
