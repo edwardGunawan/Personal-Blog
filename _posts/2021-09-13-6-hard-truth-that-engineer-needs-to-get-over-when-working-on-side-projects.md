@@ -13,7 +13,7 @@ An interesting fact about ideas and thoughts is that it comes and go. According 
 
 <blockquote>
     <p>"Ideas are cheap. Ideas are easy. Ideas are common. Everybody has ideas. Ideas are highly overvalued. Execution is all that matters."</p>
-    <footer><cite title="Jim Shore"> - Casey Neistat.</cite></footer>
+    <footer><cite title="Casey Neistat"> - Casey Neistat.</cite></footer>
 </blockquote>
 
  
