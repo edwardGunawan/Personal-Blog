@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: funtional-programming
+tag: functional-programming
 permalink: /tag/functional-programming/
 ---
