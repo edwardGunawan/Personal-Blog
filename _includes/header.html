@@ -1,16 +1,16 @@
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }} </a> <span class="site-title tag-title">{% if page.tag %} : {{ page.tag }} {% endif %}</span>
+      <a href="{{ " /" | relative_url }}" class="site-title">{{ site.title }} </a> <span class="site-title tag-title">{%
+        if page.tag %} : {{ page.tag }} {% endif %}</span>
       <nav class="site-nav">
         {% comment %}
         {% include navigation.html %}
         {% endcomment %}
-        <a class="nav-link" href="/">Blog</a>
         <a class="nav-link" href="/about">About</a>
         <a class="nav-link" href="/topics">Topics</a>
-        <a class="nav-link" href="/subscribe">Subscribe</a>
         <a class="nav-link" href="/now">Now</a>
+        <a class="nav-link" href="/newsletter-announcement/">Newsletter</a>
       </nav>
       <div class="clearfix"></div>
     </div>
